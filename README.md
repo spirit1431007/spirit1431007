@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
-TypeScript   39 mins         █████████████████░░░░░░░░   68.45 % 
-JavaScript   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-JSON         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+TypeScript   11 mins         ██████████████▒░░░░░░░░░░   56.84 % 
+JavaScript   8 mins          ██████████▒░░░░░░░░░░░░░░   40.92 % 
 ```
 <!--END_SECTION:waka-->

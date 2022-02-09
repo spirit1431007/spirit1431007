@@ -4,9 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
-
-TypeScript   11 mins         ██████████████▒░░░░░░░░░░   56.84 % 
-JavaScript   8 mins          ██████████▒░░░░░░░░░░░░░░   40.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

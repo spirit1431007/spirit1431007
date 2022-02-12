@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
-TypeScript   4 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.69 % 
-Vue.js       3 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   37.37 % 
-JSON         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Git          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript   5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.71 % 
+Vue.js       3 hrs 34 mins   ████████░░░░░░░░░░░░░░░░░   31.54 % 
+JavaScript   1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+JSON         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Git          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->

@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-Markdown            8 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   28.93 %
-TypeScript          8 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Vue.js              7 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-YAML                1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Other               59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Vue.js       10 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
+TypeScript   9 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Markdown     5 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Bash         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->

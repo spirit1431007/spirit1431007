@@ -5,14 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 06 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Vue.js              31 hrs 10 mins  ████████████████░░░░░░░░░   63.88 %
-TypeScript          9 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-JavaScript          3 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JSON                1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Docker              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Other               38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Vue.js       24 hrs 20 mins  █████████████░░░░░░░░░░░░   51.50 %
+TypeScript   17 hrs 47 mins  █████████▒░░░░░░░░░░░░░░░   37.64 %
+JSON         1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Bash         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other        56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->

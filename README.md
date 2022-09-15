@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-TypeScript          8 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.30 %
-Terraform           7 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.23 %
-Vue.js              1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Docker              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Bash                14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-JSON                12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript          7 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   39.65 %
+Terraform           6 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
+Vue.js              3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Docker              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Bash                29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JSON                26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->

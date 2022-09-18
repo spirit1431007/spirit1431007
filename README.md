@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 TypeScript          8 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   38.23 %
 Terraform           6 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.66 %

@@ -5,9 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-Other   5 mins          █████████████░░░░░░░░░░░░   51.68 %
+TypeScript   1 hr 47 mins    ██████████████▓░░░░░░░░░░   58.37 %
+Go           52 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Vue.js       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->

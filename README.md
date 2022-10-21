@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-Go           18 hrs 32 mins  █████████████▓░░░░░░░░░░░   54.79 %
-TypeScript   8 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-JSON         2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Terraform    52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Go           17 hrs 50 mins  ███████████▓░░░░░░░░░░░░░   47.27 %
+TypeScript   11 hrs 53 mins  ████████░░░░░░░░░░░░░░░░░   31.51 %
+SCSS         2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+JSON         2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Terraform    51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+YAML         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 October 2022 - To: 24 October 2022
+From: 18 October 2022 - To: 25 October 2022
 
-TypeScript   19 hrs 30 mins  ██████████████░░░░░░░░░░░   55.60 %
-Go           5 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-SCSS         3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JSON         2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Terraform    1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Other        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TypeScript   23 hrs 40 mins  █████████████████▒░░░░░░░   68.89 %
+SCSS         3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Go           2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+JSON         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Terraform    1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other        55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Go           19 hrs 55 mins  █████████████████▓░░░░░░░   70.22 %
-Other        4 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+Go           20 hrs          ████████████████▒░░░░░░░░   64.92 %
+Other        5 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 November 2022 - To: 03 December 2022
+From: 27 November 2022 - To: 04 December 2022
 
 Go           9 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
 YAML         7 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 %

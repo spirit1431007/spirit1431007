@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-Go                  16 hrs 56 mins  ████████████░░░░░░░░░░░░░   47.62 %
-Markdown            9 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.68 %
-Other               2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Go                  17 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.46 %
+Markdown            10 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+Other               2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
 ```
 
 <!--END_SECTION:waka-->

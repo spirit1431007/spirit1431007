@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-Go                  15 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   41.88 %
-TypeScript          5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Bash                4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Vue.js              4 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-YAML                2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Docker              1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Go                  14 hrs 42 mins  ███████████░░░░░░░░░░░░░░   44.32 %
+TypeScript          5 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Vue.js              4 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Bash                2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+YAML                1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Docker              1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->

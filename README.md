@@ -5,13 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-TypeScript   13 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   36.49 %
-Terraform    8 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Go           5 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Vue.js       3 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Other        3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Terraform    15 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   36.41 %
+Go           8 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+TypeScript   7 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Other        6 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
 ```
 
 <!--END_SECTION:waka-->

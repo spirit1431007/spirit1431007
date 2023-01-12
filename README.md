@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-Terraform           13 hrs 53 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-Go                  13 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-TypeScript          10 hrs 36 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-Other               6 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Go                  14 hrs 35 mins  ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+TypeScript          11 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+Terraform           8 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Other               4 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,14 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
-Go           15 hrs 24 mins  ████████████░░░░░░░░░░░░░   48.02 %
-TypeScript   10 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   32.24 %
-Bash         2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Vue.js       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Go           12 hrs 31 mins  ████████████▒░░░░░░░░░░░░   49.66 %
+TypeScript   9 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   36.27 %
+Bash         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->

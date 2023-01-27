@@ -5,14 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
+From: 19 January 2023 - To: 26 January 2023
 
-TypeScript   1 hr 45 mins    ██████████████████▓░░░░░░   74.83 %
-Go           26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-Terraform    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-systemd      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Go           1 min           █████████████████▓░░░░░░░   71.10 %
+TypeScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.90 %
 ```
 
 <!--END_SECTION:waka-->

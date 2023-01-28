@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
-
-Go           1 min           █████████████████▓░░░░░░░   71.10 %
-TypeScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

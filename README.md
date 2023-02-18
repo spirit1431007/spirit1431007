@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Go           24 hrs 54 mins  ███████████████████░░░░░░   75.92 %
-YAML         3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Other        1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Go           20 hrs 6 mins   ███████████████▒░░░░░░░░░   61.17 %
+TypeScript   6 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+YAML         3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Other        1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->

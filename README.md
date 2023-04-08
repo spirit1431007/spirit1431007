@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2023 - To: 06 April 2023
+From: 31 March 2023 - To: 07 April 2023
 
-Go           7 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.02 %
-Markdown     3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-TypeScript   3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-JavaScript   2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Vue.js       1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-YAML         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Go           15 hrs 42 mins  ███████████████░░░░░░░░░░   60.47 %
+Markdown     3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+TypeScript   2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+YAML         2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Vue.js       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->

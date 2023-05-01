@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
-TypeScript   19 hrs 23 mins  ████████████▓░░░░░░░░░░░░   50.80 %
-Go           11 hrs 49 mins  ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-Terraform    1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other        1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript   1 hr 57 mins    ████████████░░░░░░░░░░░░░   48.46 %
+Vue.js       45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
+Other        32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
 ```
 
 <!--END_SECTION:waka-->

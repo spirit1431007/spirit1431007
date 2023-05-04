@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-TypeScript   13 hrs 31 mins  ████████████▒░░░░░░░░░░░░   48.92 %
-Go           5 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Other        2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+TypeScript   12 hrs 44 mins  █████████████▓░░░░░░░░░░░   54.92 %
+Go           2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Python       1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+JSON         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other        1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->

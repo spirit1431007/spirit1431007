@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Go           20 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.17 %
-TypeScript   17 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   35.92 %
-Other        2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JSON         1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Markdown     1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+TypeScript       19 hrs 56 mins  ██████████▒░░░░░░░░░░░░░░   41.39 %
+Go               19 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   39.96 %
+Other            2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JSON             1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Terraform        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->

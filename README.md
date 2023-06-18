@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2023 - To: 16 June 2023
+From: 10 June 2023 - To: 17 June 2023
 
-Go               13 hrs 51 mins  ██████████▒░░░░░░░░░░░░░░   41.13 %
-TypeScript       8 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-Markdown         2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-HTML             1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Terraform        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Go               13 hrs 51 mins  ██████████▒░░░░░░░░░░░░░░   41.25 %
+TypeScript       9 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+Markdown         2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+HTML             1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Terraform        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->

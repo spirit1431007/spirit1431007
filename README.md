@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
-Go           10 hrs 21 mins  ██████████████░░░░░░░░░░░   55.60 %
-Bash         2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-YAML         2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-TypeScript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Other        40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Go           10 hrs 21 mins  █████████████░░░░░░░░░░░░   51.85 %
+TypeScript   2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Bash         2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+YAML         2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->

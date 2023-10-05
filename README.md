@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2023 - To: 03 October 2023
+From: 27 September 2023 - To: 04 October 2023
 
-Go           6 hrs 58 mins   █████████████████▒░░░░░░░   69.62 %
-TypeScript   1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Bash         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-GDScript3    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Go           2 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.45 %
+TypeScript   1 hr 31 mins    ████████░░░░░░░░░░░░░░░░░   31.80 %
+GDScript3    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->

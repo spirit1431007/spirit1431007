@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Go           2 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.45 %
-TypeScript   1 hr 31 mins    ████████░░░░░░░░░░░░░░░░░   31.80 %
-GDScript3    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

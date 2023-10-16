@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2023 - To: 14 October 2023
+From: 08 October 2023 - To: 15 October 2023
 
-Go                20 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.14 %
-TypeScript        9 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Protocol Buffer   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-ActionScript 3    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Batchfile         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go                18 hrs 24 mins  █████████████▓░░░░░░░░░░░   54.12 %
+TypeScript        7 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+JSON              2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Protocol Buffer   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Bash              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->

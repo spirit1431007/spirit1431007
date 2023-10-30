@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2023 - To: 28 October 2023
+From: 22 October 2023 - To: 29 October 2023
 
-Go                  30 hrs 46 mins  ██████████████████▒░░░░░░   72.71 %
-TypeScript          3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Other               2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Ezhil               1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Bash                1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Go                  38 hrs 50 mins  ██████████████████▓░░░░░░   74.73 %
+TypeScript          4 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Other               2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Bash                1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Ezhil               1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-Go           21 hrs 13 mins  ████████████████░░░░░░░░░   64.46 %
-TypeScript   3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Other        2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Docker       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Bash         1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Go           18 hrs 6 mins   ████████████████░░░░░░░░░   64.12 %
+Other        2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Docker       2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+TypeScript   1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Bash         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->

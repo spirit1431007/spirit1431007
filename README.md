@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 Go           14 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.46 %
 Other        6 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %

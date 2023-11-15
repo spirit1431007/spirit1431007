@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-Go           14 hrs 7 mins   ████████████▒░░░░░░░░░░░░   49.46 %
-Other        6 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
-Terraform    4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
-Bash         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Go           17 hrs 30 mins  ██████████████░░░░░░░░░░░   55.53 %
+Other        6 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Terraform    4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Bash         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->

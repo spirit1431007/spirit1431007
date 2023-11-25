@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Go                27 hrs 41 mins  ███████████████████░░░░░░   75.74 %
-Markdown          2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Bash              2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Other             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Go                28 hrs 20 mins  ███████████████████▓░░░░░   78.81 %
+Markdown          2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Other             1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Bash              1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+TypeScript        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->

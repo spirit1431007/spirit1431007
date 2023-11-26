@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
 Go                28 hrs 20 mins  ███████████████████▓░░░░░   78.81 %
 Markdown          2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %

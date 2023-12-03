@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Go                20 hrs 52 mins  ██████████████░░░░░░░░░░░   55.70 %
-TypeScript        5 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Go                20 hrs 52 mins  ██████████████░░░░░░░░░░░   55.69 %
+TypeScript        5 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
 Bash              3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 Other             2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 Terraform         2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %

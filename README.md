@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
-Go                23 hrs 9 mins   ██████████████▓░░░░░░░░░░   58.85 %
-Terraform         6 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Other             5 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-YAML              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Bash              55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Go                27 hrs 45 mins  ███████████████▓░░░░░░░░░   62.40 %
+Terraform         6 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Other             5 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Bash              1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+YAML              1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->

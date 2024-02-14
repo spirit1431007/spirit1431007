@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Bash         5 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.98 %
-Docker       2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-TypeScript   1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Markdown     1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Text         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Bash         2 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.90 %
+Docker       1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+Markdown     1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Text         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Go           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->

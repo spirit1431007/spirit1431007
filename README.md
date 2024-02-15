@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Bash         2 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.90 %
-Docker       1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
-Markdown     1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Text         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Go           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

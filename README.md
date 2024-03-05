@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Markdown            8 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.64 %
-Bash                3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-Go                  2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Other               2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-YAML                2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Markdown            8 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Go                  6 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Bash                4 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Terraform           3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Other               2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->

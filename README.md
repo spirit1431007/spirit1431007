@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Terraform           9 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-Go                  6 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-Markdown            4 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Other               4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Bash                4 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Terraform           9 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   36.00 %
+Go                  7 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Other               3 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Bash                3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Docker              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->

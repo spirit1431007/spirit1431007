@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Go           16 hrs 27 mins  █████████████░░░░░░░░░░░░   52.38 %
-Other        3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Terraform    3 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Markdown     2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-JSON         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Go           16 hrs 28 mins  ████████████▒░░░░░░░░░░░░   49.85 %
+Other        4 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Terraform    4 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Markdown     2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+JSON         1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->

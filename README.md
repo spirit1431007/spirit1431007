@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
-Go                  7 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
-Markdown            3 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-TypeScript          2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-JavaScript          1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-JSON                1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Go                  7 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.67 %
+Markdown            5 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+TypeScript          2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+JavaScript          1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON                1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->

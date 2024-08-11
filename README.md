@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Go           27 hrs 46 mins  █████████████████▓░░░░░░░   70.28 %
-TypeScript   4 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Markdown     2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON         1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Docker       47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Go           23 hrs 40 mins  ████████████████░░░░░░░░░   64.29 %
+TypeScript   5 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Markdown     2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+YAML         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Bash         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->

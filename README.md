@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
 Go                 12 hrs 42 mins  █████████████▒░░░░░░░░░░░   53.15 %
 Markdown           5 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.57 %

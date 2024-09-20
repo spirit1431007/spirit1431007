@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Go           5 hrs 28 mins   ███████████████████▓░░░░░   78.48 %
-Other        46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Terraform    16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Go            3 hrs 51 mins   ████████████░░░░░░░░░░░░░   48.11 %
+TypeScript    1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Other         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+JavaScript    31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+YAML          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
 ```
 
 <!--END_SECTION:waka-->

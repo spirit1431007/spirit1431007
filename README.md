@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Go           15 hrs 41 mins  █████████████▓░░░░░░░░░░░   54.92 %
-Other        4 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-TypeScript   2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Markdown     1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash         1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Go           12 hrs 47 mins  ████████████░░░░░░░░░░░░░   48.26 %
+Other        4 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Markdown     2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+TypeScript   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Bash         1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->

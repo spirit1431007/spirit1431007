@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
 Bash         6 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
 Go           4 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %

@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Go           8 hrs 21 mins   █████████████████░░░░░░░░   67.47 %
-Bash         2 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-Docker       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Go           7 hrs 32 mins   ███████████████████▒░░░░░   76.86 %
+Bash         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Docker       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->

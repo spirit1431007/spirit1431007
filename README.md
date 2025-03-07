@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-TypeScript        9 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.71 %
-Go                5 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-Other             1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Bash              32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Terraform         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TypeScript        7 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
+Go                7 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.75 %
+Other             1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Bash              58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->

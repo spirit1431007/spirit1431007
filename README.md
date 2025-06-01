@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 30 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
 Go           10 hrs 41 mins  ████████████████░░░░░░░░░   64.05 %
 Other        1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %

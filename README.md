@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
 Go           5 hrs 11 mins   █████████████████▒░░░░░░░   69.04 %
 Bash         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %

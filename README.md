@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-TypeScript   4 hrs 10 mins   ███████████░░░░░░░░░░░░░░   43.99 %
-Other        1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-Go           1 hr 34 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Vue.js       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+TypeScript   4 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.59 %
+Other        2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+Vue.js       1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Go           39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->

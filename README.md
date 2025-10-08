@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Go     2 hrs 12 mins   ████████████████████████▓   98.76 %
-JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go      12 mins         ████████████████████▓░░░░   83.22 %
+Other   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
 ```
 
 <!--END_SECTION:waka-->

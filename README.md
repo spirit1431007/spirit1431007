@@ -5,10 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-Go      12 mins         ████████████████████▓░░░░   83.22 %
-Other   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+Go         28 mins         ███████████████████▒░░░░░   76.71 %
+Other      6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->

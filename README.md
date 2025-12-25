@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Go                  2 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   32.05 %
-Bash                1 hr 46 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-Markdown            1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-Docker              49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Other               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Go                  3 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
+Bash                1 hr 58 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+Markdown            59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Docker              52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Other               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->

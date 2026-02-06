@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Go         26 hrs 43 mins  ████████████████████████▓   98.64 %
-Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Go         19 hrs 35 mins  ████████████████████████▓   98.33 %
+Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->

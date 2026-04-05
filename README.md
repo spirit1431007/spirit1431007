@@ -5,13 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Go           17 hrs 49 mins        ████████████████████▒░░░░   81.28 %
-Markdown     3 hrs 58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-JSON         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Batchfile    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-PowerShell   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go           14 hrs 57 mins        ███████████████████▓░░░░░   78.69 %
+Markdown     3 hrs 55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+JSON         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

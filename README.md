@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-Markdown     6 hrs 30 mins         ██████████▓░░░░░░░░░░░░░░   42.12 %
-Go           3 hrs 57 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-Docker       1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-TypeScript   50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Markdown     5 hrs 28 mins         ██████████▓░░░░░░░░░░░░░░   42.55 %
+Go           2 hrs 57 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Docker       1 hr 16 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+TypeScript   50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Other        42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->

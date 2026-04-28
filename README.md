@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Markdown     4 hrs 30 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
-Go           2 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-Docker       2 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Svelte       1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-TypeScript   57 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Markdown     3 hrs 40 mins         ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+Docker       2 hrs 6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Go           1 hr 58 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+Svelte       1 hr 4 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+TypeScript   57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->

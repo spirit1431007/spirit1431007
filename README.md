@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Markdown     3 hrs 58 mins         ███████████░░░░░░░░░░░░░░   43.96 %
-Go           1 hr 39 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-Other        1 hr 26 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Bash         51 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Vue          22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Markdown     3 hrs 52 mins         ██████████████▒░░░░░░░░░░   57.44 %
+Other        56 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Go           33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Bash         31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+TypeScript   31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->

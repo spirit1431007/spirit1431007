@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Python   4 mins                █████████████████████████   100.00 %
+Python       2 hrs 48 mins         ████████████████▓░░░░░░░░   66.43 %
+Other        49 mins               █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Bash         15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown     12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+YAML         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
